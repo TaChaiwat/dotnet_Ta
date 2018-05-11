@@ -1,0 +1,11 @@
+C:\Dotnet_ta\bin\Debug\netcoreapp2.0\Dotnet_ta.deps.json
+C:\Dotnet_ta\bin\Debug\netcoreapp2.0\Dotnet_ta.runtimeconfig.json
+C:\Dotnet_ta\bin\Debug\netcoreapp2.0\Dotnet_ta.runtimeconfig.dev.json
+C:\Dotnet_ta\bin\Debug\netcoreapp2.0\Dotnet_ta.dll
+C:\Dotnet_ta\bin\Debug\netcoreapp2.0\Dotnet_ta.pdb
+C:\Dotnet_ta\obj\Debug\netcoreapp2.0\Dotnet_ta.csprojAssemblyReference.cache
+C:\Dotnet_ta\obj\Debug\netcoreapp2.0\Dotnet_ta.csproj.CoreCompileInputs.cache
+C:\Dotnet_ta\obj\Debug\netcoreapp2.0\Dotnet_ta.AssemblyInfoInputs.cache
+C:\Dotnet_ta\obj\Debug\netcoreapp2.0\Dotnet_ta.AssemblyInfo.cs
+C:\Dotnet_ta\obj\Debug\netcoreapp2.0\Dotnet_ta.dll
+C:\Dotnet_ta\obj\Debug\netcoreapp2.0\Dotnet_ta.pdb
